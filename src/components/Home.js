@@ -10,7 +10,7 @@ const Home = () => {
         <p className='text-blue-600'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#000000]'>
         <Typical
-        steps={['SIDDHARTH ', 2000, 'VAISHNAV', 2000]}
+        steps={['SIDDHARTH VAISHNAV', 2000]}
         loop={Infinity}
         wrapper="p"
       />

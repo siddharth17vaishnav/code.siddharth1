@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/code.siddharth1/static/css/main.ef9be14d.css",
+    "main.js": "/code.siddharth1/static/js/main.8921ad8b.js",
+    "static/media/netflix.png": "/code.siddharth1/static/media/netflix.b5d6cd79da7c854de448.png",
+    "static/media/portfolio1.png": "/code.siddharth1/static/media/portfolio1.aa7029061f5fd5f43c1c.png",
+    "static/media/flipkart.png": "/code.siddharth1/static/media/flipkart.a77c802a4ecf31301318.png",
+    "static/media/inshorts.png": "/code.siddharth1/static/media/inshorts.3b38a6bb1366b329d0ab.png",
+    "static/media/blog.png": "/code.siddharth1/static/media/blog.633a2932750e01e985a9.png",
+    "static/media/portfolio.png": "/code.siddharth1/static/media/portfolio.1967d7e224ca2d9060e2.png",
+    "static/media/Resume.pdf": "/code.siddharth1/static/media/Resume.72553157aa09e06abb5e.pdf",
+    "static/media/react.png": "/code.siddharth1/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/code.siddharth1/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/developer.png": "/code.siddharth1/static/media/developer.c3c26d5d44b693b58765.png",
+    "static/media/html.png": "/code.siddharth1/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/code.siddharth1/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/code.siddharth1/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/aws.png": "/code.siddharth1/static/media/aws.4676ad983d6bd3e9fac9.png",
+    "static/media/javascript.png": "/code.siddharth1/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/code.siddharth1/index.html",
+    "main.ef9be14d.css.map": "/code.siddharth1/static/css/main.ef9be14d.css.map",
+    "main.8921ad8b.js.map": "/code.siddharth1/static/js/main.8921ad8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9be14d.css",
+    "static/js/main.8921ad8b.js"
+  ]
+}
